@@ -6,17 +6,20 @@ const styles = StyleSheet.create({
         marginTop: 20
     },
     texto:{
+        textAlign: 'center',
         paddingHorizontal:20,
         paddingVertical:10,
         fontSize: 18,
         fontWeight: 'bold',
         color: '#291001'
     },
-    img:{
-        width:350,
-        height: 470,
-        borderTopRightRadius: 20,
-        borderTopLeftRadius:20,
+    tit:{
+        textAlign: 'center',
+        paddingHorizontal:20,
+        paddingVertical:10,
+        fontSize: 24,
+        fontWeight: 'bold',
+        color: '#291001'
     },
     card:{
         backgroundColor:'#FFF',

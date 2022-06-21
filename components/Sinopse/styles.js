@@ -13,16 +13,17 @@ const styles = StyleSheet.create({
         color: '#291001'
     },
     img:{
-        width:350,
-        height: 470,
-        borderTopRightRadius: 20,
-        borderTopLeftRadius:20,
+        width:330,
+        height: 150,
+        borderRadius:10,
+        marginBottom: 20, 
+        marginLeft: 10
     },
-    card:{
+    sinopse:{
         backgroundColor:'#FFF',
         borderRadius: 20,
         width:350,
-        marginBottom: 30
+        marginBottom:40
     }
 });
 
